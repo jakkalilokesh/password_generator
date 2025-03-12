@@ -1,5 +1,3 @@
-# password_generator
-
 # Strong Password Generator
 This Python script generates a strong, random password based on user-defined length. It ensures a balanced mix of uppercase letters, lowercase letters, digits, and special characters, enhancing security.
 
